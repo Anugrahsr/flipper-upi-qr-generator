@@ -1,0 +1,14 @@
+# Build artifacts
+dist/
+*.fap
+*.elf
+
+# IDE files
+.vscode/
+
+# macOS
+.DS_Store
+
+# Temporary files
+*.tmp
+*.bak

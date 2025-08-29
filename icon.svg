@@ -1,0 +1,32 @@
+<svg width="10" height="10" viewBox="0 0 10 10" xmlns="http://www.w3.org/2000/svg">
+  <!-- UPI QR Code Icon - Simple QR pattern -->
+  <rect width="10" height="10" fill="white"/>
+  
+  <!-- Corner squares (QR code finder patterns) -->
+  <rect x="0" y="0" width="3" height="3" fill="black"/>
+  <rect x="1" y="1" width="1" height="1" fill="white"/>
+  
+  <rect x="7" y="0" width="3" height="3" fill="black"/>
+  <rect x="8" y="1" width="1" height="1" fill="white"/>
+  
+  <rect x="0" y="7" width="3" height="3" fill="black"/>
+  <rect x="1" y="8" width="1" height="1" fill="white"/>
+  
+  <!-- Data pattern dots -->
+  <rect x="4" y="1" width="1" height="1" fill="black"/>
+  <rect x="6" y="1" width="1" height="1" fill="black"/>
+  
+  <rect x="1" y="4" width="1" height="1" fill="black"/>
+  <rect x="3" y="4" width="1" height="1" fill="black"/>
+  <rect x="5" y="4" width="1" height="1" fill="black"/>
+  <rect x="7" y="4" width="1" height="1" fill="black"/>
+  <rect x="9" y="4" width="1" height="1" fill="black"/>
+  
+  <rect x="4" y="6" width="1" height="1" fill="black"/>
+  <rect x="6" y="6" width="1" height="1" fill="black"/>
+  <rect x="8" y="6" width="1" height="1" fill="black"/>
+  
+  <rect x="5" y="8" width="1" height="1" fill="black"/>
+  <rect x="7" y="8" width="1" height="1" fill="black"/>
+  <rect x="9" y="8" width="1" height="1" fill="black"/>
+</svg>

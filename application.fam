@@ -1,0 +1,16 @@
+App(
+    appid="upi_qr",
+    name="UPI QR Generator",
+    apptype=FlipperAppType.EXTERNAL,
+    entry_point="upi_qr_app",
+    cdefines=["APP_UPI_QR"],
+    requires=["gui", "storage"],
+    stack_size=2 * 1024,
+    order=90,
+    fap_category="Tools",
+    fap_description="Generate UPI payment QR codes",
+    fap_author="YourName",
+    fap_weburl="https://github.com/yourusername/flipper-upi-qr",
+    fap_version="1.0",
+    fap_icon="icon.png",
+)
