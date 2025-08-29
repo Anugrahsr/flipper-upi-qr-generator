@@ -1,0 +1,37 @@
+## This is a manifest file for the Flipper Apps Catalog.
+## UPI QR Generator for Flipper Zero
+
+sourcecode:
+  type: git
+  location:
+    ## Git URL of the repository
+    origin: https://github.com/Anugrahsr/flipper-upi-qr-generator.git
+    ## Full commit SHA of the current version
+    commit_sha: aa0702bced40f38c359762c6bd65d03aca042907
+    ## App is located in the root directory
+    # subdir: .
+
+## Short description from application.fam
+short_description: Generate UPI QR codes for digital payments in India.
+
+## Detailed description with markdown support
+description: |
+  A comprehensive Flipper Zero application for generating UPI (Unified Payments Interface) QR codes.
+  
+  **Features:**
+  - Generate UPI QR codes with custom payee information
+  - Support for username@bank format input
+  - Fullscreen QR code display for easy scanning
+  - Save QR codes to device storage
+  - Clean and intuitive user interface
+  - Proper URL encoding for special characters
+  
+  Perfect for digital payments in India using the UPI system.
+
+## Changelog reference
+changelog: "@README.md"
+
+## Screenshots from the application
+screenshots:
+  - app.png
+  - about.png
