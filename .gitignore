@@ -1,7 +1,8 @@
 # Build artifacts
-dist/
-*.fap
+dist/debug/
 *.elf
+# Allow the main .fap file
+!dist/upi_qr.fap
 
 # IDE files
 .vscode/
