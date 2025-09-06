@@ -5,9 +5,13 @@ A Flipper Zero application that generates UPI (Unified Payments Interface) QR co
 ## Screenshots
 
 ![Application Interface](apps.png)
+
+
 *Main application interface showing UPI ID input*
 
 ![About Screen](about.png)
+
+
 *Application information and details*
 
 ## Features
